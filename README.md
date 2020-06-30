@@ -1,2 +1,2 @@
-# adamTheMan-github.io
-Demo page
+# adamtheman.github.io
+Demo page.
